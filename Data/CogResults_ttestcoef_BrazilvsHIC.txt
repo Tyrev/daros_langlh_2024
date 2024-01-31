@@ -1,0 +1,10 @@
+                    Brazil_mean Brazil_std HIC_mean HIC_std ttest
+Education                  0.32       0.02     0.07    0.08   0.0
+Mental Problems           -0.17       0.04     0.13    0.12   0.0
+Physical activity          0.11       0.03    -0.14    0.06   0.0
+Smoking status            -0.06       0.03    -0.07    0.06  0.55
+House Condition            0.03        0.0     0.13    0.03   0.0
+Age                       -0.02        0.0    -0.03     0.0   0.0
+Alcohol consumption        0.03       0.03     0.04    0.04  0.53
+Falls                     -0.02       0.03     0.12    0.09   0.0
+Sex                        0.02       0.02    -0.11    0.06   0.0

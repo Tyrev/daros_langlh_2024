@@ -1,0 +1,47 @@
+Resumen del regresor Ridge
+
+Residuals:
+    Min      1Q  Median     3Q    Max
+-2.3129 -0.5385 -0.1634 0.3262 5.0521
+
+
+Coefficients:
+                     Estimate   t value       p value
+_intercept           2.446711   23.5491  0.000000e+00
+Age                 -0.050509 -378.6932  0.000000e+00
+Sex                  0.008697    0.7446  4.565128e-01
+Diabetes             0.005364    0.3752  7.075042e-01
+Education            0.117545    8.8916  0.000000e+00
+Live Alone           0.174743   10.9912  0.000000e+00
+House Condition      0.050577   22.3607  0.000000e+00
+Hypertension         0.000334    0.0304  9.757090e-01
+Heart Disease       -0.026296   -1.7151  8.634535e-02
+Alcohol consumption  0.036820    2.9791  2.893842e-03
+Physical activity   -0.122044   -9.1347  0.000000e+00
+Smoking status      -0.019013   -1.7359  8.259790e-02
+Falls                0.078225    6.8859  5.872636e-12
+Mental Problems      0.280520   15.5038  0.000000e+00
+Country              0.025861    1.3538  1.757986e-01
+---
+...
+RMSE:  0.85476
+---------------------------------------------------------------------------
+                     Estimate   t value   p value     value
+_intercept            2.44671   23.5491       0.0          
+Age                 -0.050509 -378.6932       0.0          
+Sex                  0.008697    0.7446  0.456513          
+Diabetes             0.005364    0.3752  0.707504          
+Education            0.117545    8.8916       0.0          
+Live Alone           0.174743   10.9912       0.0          
+House Condition      0.050577   22.3607       0.0          
+Hypertension         0.000334    0.0304  0.975709          
+Heart Disease       -0.026296   -1.7151  0.086345          
+Alcohol consumption   0.03682    2.9791  0.002894          
+Physical activity   -0.122044   -9.1347       0.0          
+Smoking status      -0.019013   -1.7359  0.082598          
+Falls                0.078225    6.8859       0.0          
+Mental Problems      0.280521   15.5038       0.0          
+Country              0.025861    1.3538  0.175797          
+R-squared                                          0.229267
+Adjusted R-squared                                 0.228848
+F-squared                                          0.297466

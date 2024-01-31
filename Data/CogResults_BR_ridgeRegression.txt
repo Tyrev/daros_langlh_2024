@@ -1,0 +1,46 @@
+Resumen del regresor Ridge
+
+Residuals:
+    Min      1Q  Median     3Q    Max
+-2.1407 -0.3989 -0.0488 0.3391 2.9491
+
+
+Coefficients:
+                     Estimate   t value       p value
+_intercept           0.766141    7.5329  5.506706e-14
+Age                 -0.021432 -131.6803  0.000000e+00
+Sex                  0.011312    0.7954  4.264305e-01
+Diabetes             0.011521    0.6365  5.244680e-01
+Education            0.321097   26.0565  0.000000e+00
+Live Alone          -0.037272   -1.9179  5.515515e-02
+House Condition      0.028304   12.2726  0.000000e+00
+Hypertension         0.005474    0.3917  6.953195e-01
+Heart Disease       -0.015960   -0.7410  4.587352e-01
+Alcohol consumption  0.028245    1.2046  2.284108e-01
+Physical activity   -0.104373   -7.4948  7.371881e-14
+Smoking status      -0.055687   -2.9817  2.874881e-03
+Falls                0.016530    1.0190  3.082394e-01
+Mental Problems      0.159552   10.6446  0.000000e+00
+---
+R-squared:  0.26444,    Adjusted R-squared:  0.26321
+...
+RMSE:  0.61499
+---------------------------------------------------------------------------
+                     Estimate   t value   p value     value
+_intercept           0.766141    7.5329       0.0          
+Age                 -0.021432 -131.6803       0.0          
+Sex                  0.011312    0.7954   0.42643          
+Diabetes             0.011521    0.6365  0.524468          
+Education            0.321097   26.0565       0.0          
+Live Alone          -0.037272   -1.9179  0.055155          
+House Condition      0.028304   12.2726       0.0          
+Hypertension         0.005474    0.3917   0.69532          
+Heart Disease        -0.01596    -0.741  0.458735          
+Alcohol consumption  0.028245    1.2046  0.228411          
+Physical activity   -0.104373   -7.4948       0.0          
+Smoking status      -0.055687   -2.9817  0.002875          
+Falls                 0.01653     1.019  0.308239          
+Mental Problems      0.159552   10.6446       0.0          
+R-squared                                          0.264435
+Adjusted R-squared                                 0.263214
+F-squared                                            0.3595
